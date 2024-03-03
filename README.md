@@ -4,14 +4,14 @@ Udemy üzerinde Atıl Samancıoğlu'nun verdiği Android eğitimden bir örnek o
 
 Farklar / Yeni Özellikler!
 
-----Giriş İntrosu Eklendi.
+-Giriş İntrosu Eklendi.
 
-----Ana Menü Eklendi.
+-Ana Menü Eklendi.
 
-----Nasıl Oynanır Kısmı EKlendi.
+-Nasıl Oynanır Kısmı EKlendi.
 
-----Zorluk Seviyeleri Eklendi(kolay-orta-zor).
+-Zorluk Seviyeleri Eklendi(kolay-orta-zor).
 
-----Yeniden Oynama Seçeneği.
+-Yeniden Oynama Seçeneği.
 
 Ekran Görüntüleri
