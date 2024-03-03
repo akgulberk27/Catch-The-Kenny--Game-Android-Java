@@ -3,6 +3,7 @@ Catch the Kenny
 Udemy üzerinde Atıl Samancıoğlu'nun verdiği Android eğitimden bir örnek olan 'Catch the Kenny' oyunu için  geliştirmeler.
 
 Farklar / Yeni Özellikler!
+-------------------------------
 
 -Giriş İntrosu Eklendi.
 
