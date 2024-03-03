@@ -16,3 +16,4 @@ Farklar / Yeni Özellikler!
 -Yeniden Oynama Seçeneği.
 
 Ekran Görüntüleri
+-------------------------------
