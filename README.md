@@ -1,6 +1,7 @@
 Catch the Kenny
 --------------------
-Udemy üzerinde Atıl Samancıoğlu'nun verdiği Android eğitimden bir örnek olan 'Catch the Kenny' oyunu için  geliştirmeler.
+Udemy üzerinde Atıl Samancıoğlu'nun verdiği Android eğitimden bir örnek olan 'Catch The Kenny' oyunu için  geliştirmeler.
+* Java İle Geliştirildi
 
 Farklar / Yeni Özellikler!
 -------------------------------
