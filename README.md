@@ -33,3 +33,10 @@ Ekran Görüntüleri
 ![WhatsApp Image 2024-03-03 at 12 10 32 (1)](https://github.com/akgulberk27/Catch-The-Kenny--Game-Android-Java/assets/108866525/f8095a65-4ce4-4fbb-af69-2f7d9a9d3c53)
 
 
+Oyun Videosu
+----------------------------------
+
+https://github.com/akgulberk27/Catch-The-Kenny--Game-Android-Java/assets/108866525/6e76944d-95c4-4839-b220-683e16a53f2c
+
+
+
