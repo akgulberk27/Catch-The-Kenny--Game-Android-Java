@@ -1,6 +1,7 @@
 Catch the Kenny
 --------------------
 Udemy üzerinde Atıl Samancıoğlu'nun verdiği Android eğitimden bir örnek olan 'Catch The Kenny' oyunu için  geliştirmeler.
+
 * Java İle Geliştirildi
 
 Farklar / Yeni Özellikler!
@@ -10,7 +11,7 @@ Farklar / Yeni Özellikler!
 
 - Ana Menü Eklendi.
 
-- Nasıl Oynanır Kısmı EKlendi.
+- Nasıl Oynanır Kısmı Eklendi.
 
 - Zorluk Seviyeleri Eklendi(kolay-orta-zor).
 
