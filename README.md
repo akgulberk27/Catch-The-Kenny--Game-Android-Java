@@ -8,13 +8,13 @@ Farklar / Yeni Özellikler!
 
 - Animasyonlu Giriş İntrosu Eklendi.
 
--Ana Menü Eklendi.
+- Ana Menü Eklendi.
 
--Nasıl Oynanır Kısmı EKlendi.
+- Nasıl Oynanır Kısmı EKlendi.
 
--Zorluk Seviyeleri Eklendi(kolay-orta-zor).
+- Zorluk Seviyeleri Eklendi(kolay-orta-zor).
 
--Yeniden Oynama Seçeneği.
+- Yeniden Oynama Seçeneği.
 
 Ekran Görüntüleri
 -------------------------------
