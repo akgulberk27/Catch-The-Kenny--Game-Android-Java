@@ -6,7 +6,7 @@ Udemy üzerinde Atıl Samancıoğlu'nun verdiği Android eğitimden bir örnek o
 Farklar / Yeni Özellikler!
 -------------------------------
 
--Giriş İntrosu Eklendi.
+- Animasyonlu Giriş İntrosu Eklendi.
 
 -Ana Menü Eklendi.
 
